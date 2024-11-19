@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-你好
+111
 
 A data-driven personal website
 ======
