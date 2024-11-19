@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-111
 
 A data-driven personal website
 ======
