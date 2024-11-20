@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research Fields"
-permalink: /_researchfields/
+permalink: /researchfields/
 author_profile: true
 redirect_from:
   - /resume
