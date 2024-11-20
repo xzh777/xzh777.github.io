@@ -10,3 +10,18 @@ main:
 
   - title: "科研经历"
     url: /cv/
+
+  - title: "学术兼职"
+    url: /position/
+
+  - title: "科研项目与荣誉"
+    url: /honors/
+
+  - title: "学生培养"
+    url: /stutrain/
+
+  - title: "媒体报道"
+    url: /medium/
+
+  - title: "著作论文"
+    url: /paper/
