@@ -6,8 +6,8 @@
 
 main:
   - title: "Research Fields"
-    url: /researchfields/
-    
+    url: /cv/
+
   - title: "Publications"
     url: /publications/
 
