@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "科研项目与荣誉"
+title: "科研项目"
 permalink: /honors/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-科研项目
-======
 * 主持中国自然基金面上项目、中国自然基金青年基金项目、四川省科技厅国际/地区合作项目；主研欧盟研究理事会高级项目、比利时佛兰德科学基金、中国国家自然科学基金、四川省科技支撑计划。
 
 科研荣誉
