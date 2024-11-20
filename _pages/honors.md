@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "科研项目与荣誉"
-permalink: /position/
+permalink: /honors/
 author_profile: true
 redirect_from:
   - /resume
