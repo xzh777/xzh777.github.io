@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Research Fields"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 张量优化：张量计算、张量分解、矩阵分解、低秩优化、稀疏优化
+* 机器学习：主成分分析、张量回归、子空间聚类、轻量化神经网络、对抗攻击、异常检测
+* 计算成像：快速成像、图像复原、图像超分辨、图像增强、图像融合、图像去模糊
+* 无线感知：频谱感知、波束形成、盲源分离、非直达波成像
+* 智能医疗：影像识别、认知障碍筛查、运动障碍筛查、脑机接口
