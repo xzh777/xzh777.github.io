@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Fields"
+title: "研究方向"
 permalink: /researchfields/
 author_profile: true
 redirect_from:

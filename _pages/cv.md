@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Fields"
+title: "科研经历"
 permalink: /cv/
 author_profile: true
 redirect_from:
