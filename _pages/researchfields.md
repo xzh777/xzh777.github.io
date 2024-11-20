@@ -3,8 +3,7 @@ layout: archive
 title: "Research Fields"
 permalink: /researchfields/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
