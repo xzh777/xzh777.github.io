@@ -81,7 +81,6 @@ redirect_from:
 著作论文
 ======
 Books
-======
 * Authored books
   * Yipeng Liu, Jiani Liu, Zhen Long, Ce Zhu, Tensor Computation for Data Analysis, New York, USA: Springer, 2022. ebook ISBN: 978-3-030-74386-4, Hardcover ISBN: 978-3-030-74385-7, DOI: 10.1007/978-3-030-74386-4, online available at: https://www.springer.com/us/book/9783030743857
   * Jiani Liu, Ce Zhu, Zhen Long, Yipeng Liu, Tensor Regression, Hanover, USA: Now Publishers Inc. 2021. online available at: https://www.nowpublishers.com/article/Details/MAL-087
@@ -92,7 +91,6 @@ Books
   * Fei Wen, Zhonghao Zhang, and Yipeng Liu, “Generalized Thresholding for Low-rank Tensor Recovery: Approaches based on Model and Learning,” Tensors for Data Processing, Academic Press (Elsevier), 2022.
 
 Papers
-======
 * 2024
   * Yipeng Liu, Jie Chen, Yingcong Lu, Weiting Ou, Zhen Long, Ce Zhu, “Adaptively Topological Tensor Network for Multi-view Subspace Clustering,” IEEE Transactions on Knowledge and Data Engineering, 2024.
   * Yuan Fang, Yipeng Liu, Chong-Yung Chi, Zhen Long, Ce Zhu, “CS2DIPs: Unsupervised HSI Super-Resolution Using Coupled Spatial and Spectral DIPs,” IEEE Transactions on Image Processing, 2024.
