@@ -13,9 +13,9 @@ Created by FontForge 20190801 at Thu Jun  1 11:28:32 2023
 <font id="Academicons" horiz-adv-x="448" >
   <font-face 
     font-family="Academicons"
-    font-weight="65"
+    font-weight="400"
     font-stretch="normal"
-    units-per-em="64"
+    units-per-em="512"
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
